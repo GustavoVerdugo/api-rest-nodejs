@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Api-Rest-NodeJS 👋</h1>
+<h1 align="center">Api-Rest-NodeJS 🤓</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -7,6 +7,11 @@
 </p>
 
 > ApiRest in NodeJS + MongoDD Atlas, Mongoose, ExpressJS
+
+---
+
+<p align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="200"> <img src="https://img.icons8.com/color/452/mongodb.png" width="200"> <img src="https://hemisferionoticias.mx/wp-content/uploads/2021/01/express-facebook-share.png" width="200"></p>
+
 
 ## Install
 
@@ -17,13 +22,7 @@ npm install
 ## Usage
 
 ```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
+npm start
 ```
 
 ## Author
@@ -32,11 +31,8 @@ npm run test
 
 * Website: gustavoverdugo.github.io/gverdugo/
 * Github: [@GustavoVerdugo](https://github.com/GustavoVerdugo)
-* LinkedIn: [@GustavoVerdugo](https://linkedin.com/in/GustavoVerdugo)
+* LinkedIn: [@GustavoVerdugo](https://www.linkedin.com/in/gustavo-verdugo-ortiz-37b032168/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
