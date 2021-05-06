@@ -32,11 +32,8 @@ npm run test
 
 * Website: gustavoverdugo.github.io/gverdugo/
 * Github: [@GustavoVerdugo](https://github.com/GustavoVerdugo)
-* LinkedIn: [@GustavoVerdugo](https://linkedin.com/in/GustavoVerdugo)
+* LinkedIn: [@GustavoVerdugo](https://www.linkedin.com/in/gustavo-verdugo-ortiz-37b032168/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
