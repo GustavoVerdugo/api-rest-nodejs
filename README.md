@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Api-Rest-NodeJS 👋</h1>
+<h1 align="center">Welcome to Api-Rest-NodeJS 🤓</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -7,6 +7,11 @@
 </p>
 
 > ApiRest in NodeJS + MongoDD Atlas, Mongoose, ExpressJS
+
+---
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="400"> <img src="https://img.icons8.com/color/452/mongodb.png" width="400"> <img src="https://hemisferionoticias.mx/wp-content/uploads/2021/01/express-facebook-share.png" width="400">
+
 
 ## Install
 
@@ -17,13 +22,7 @@ npm install
 ## Usage
 
 ```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
+npm start
 ```
 
 ## Author
