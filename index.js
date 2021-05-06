@@ -2,7 +2,7 @@
 
 let app = require('./app');
 let db = require('mongoose');
-const uri = "mongodb+srv://maxyadmin:maximiliano@clustercrud.10f8r.mongodb.net/crud?retryWrites=true&w=majority";
+const uri = "mongodb+srv://<user>:<pass>@clustercrud.10f8r.mongodb.net/<db>?retryWrites=true&w=majority";
 
 
 db.connect(uri,{ useNewUrlParser: true, useUnifiedTopology: true}, (err, res) => {
