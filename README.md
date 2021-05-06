@@ -18,6 +18,9 @@
 ```sh
 npm install
 ```
+## Configure Mongo
+
+you must configure an account in mongodb atlas or configure with a local database in the index.js file
 
 ## Usage
 
