@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="400"> <img src="https://img.icons8.com/color/452/mongodb.png" width="400"> <img src="https://hemisferionoticias.mx/wp-content/uploads/2021/01/express-facebook-share.png" width="400">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="300"> <img src="https://img.icons8.com/color/452/mongodb.png" width="300"> <img src="https://hemisferionoticias.mx/wp-content/uploads/2021/01/express-facebook-share.png" width="300">
 
 
 ## Install
